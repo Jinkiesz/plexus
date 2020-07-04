@@ -1,4 +1,4 @@
-Application,Month,Year,Rating (1-4),Notes
+Application,Month,Year,Rating (1-4),Notes,App Category
 ADT Smart Services,June,2020,3,No notifications and Google Play Services Warning (But no effect)
 Air NZ,June,2020,3,Requires disabling notification class
 Alto's Adventure,May,2020,4,No reported issues
@@ -7,9 +7,9 @@ Ankidroid,May,2020,4,No reported issues
 aTimeLogger,May,2020,4,No reported issues
 Audible,June,2020,4,No reported issues
 Blockfolio,May ,2020,3,"Google Play Services Warning, but no effect"
-BOM Weather,May ,2020,4,No reported issues
-Brave,May ,2020,3,No notifications
-BTS WORLD,May ,2020,3,No notifications or in-app purchases
+BOM Weather,May,2020,4,No reported issues
+Brave,May,2020,3,No notifications
+BTS WORLD,May,2020,3,No notifications or in-app purchases
 Calculator++,May,2020,4,No reported issues
 Calm,June,2020,4,No reported issues
 CamScanner,May,2020,4,No reported issues
@@ -30,10 +30,10 @@ Fast Scanner,July,2020,4,No reported issues
 Firefox,May ,2020,4,No reported issues
 Firefox Focus,May ,2020,3,Possible bug that disallows performing a search. Fixed by erasing browser history
 Freedom,May ,2020,1,Unusable
-Gameloft Classics,June,2020,4,(Game)No reported issues
+Gameloft Classics,June,2020,4,No reported issues,Game
 Garmin Connect,May ,2020,3,Maps do not show within the application
-Github,June,2020,4,No reported issues
-Gmail,June,2020,1,unusable
+Github,July,2020,4,No reported issues
+Gmail,July,2020,1,unusable,Email
 Goodreads,May ,2020,4,No reported issues
 Google Camera,June,2020,3,"Working, but need spoofed API & Image preview won't work without Google Photos installed"
 Google Cardboard,June,2020,3,Purchases will not work
@@ -53,17 +53,17 @@ ING Banking,May ,2020,4,No reported issues
 Instagram,June,2020,4,No reported issues
 Japanese,July,2020,4,No reported issues with this dictionary
 Kasa ,June,2020,1,Unusable
-Khan Academy,June,2020,4,(Education)No reported issues
+Khan Academy,July,2020,4,No reported issues,Education
 Komoot ,March,2020,4,No reported issues
 Lastpass ,June,2020,1,Unusable
 Letterboxd,May ,2020,4,No reported issues
-Lichess ,June,2020,4,No reported issues
+Lichess ,June,2020,4,No reported issues,Game
 Listen Audiobook Player,May,2020,4,No reported issues
 Lyft,June,2020,1,Unusable
-Maxim Taxi,June,2020,1,(Ride hailing app)Unusable
-Medium,June,2020,3,"Google Play Services Warning, Cannot login with google/gmail, works fine with facebook etc"
+Maxim Taxi,June,2020,1,Unusable,"Ride hailing app/taxi"
+Medium,June,2020,3,"Google Play Services Warning, Cannot login with google/gmail, works fine with facebook etc","News/Magazine"
 MEGA,May ,2020,4,No reported issues
-Mental Math Master,2020,3,(Game)No Google Play Games Sync
+Mental Math Master,2020,3,No Google Play Games Sync,Game
 Microsoft Outlook,June,2020,4,No reported issues
 Moon+ Reader Pro,May,2020,4,No reported issues
 MVG Fahrinfo,March,2020,3,Maps do not show within the application
@@ -92,7 +92,7 @@ Popcorn Time,June,2020,3,"Buggy, Cashes Occasionally"
 Prime Video,June,2020,4,No reported issues
 ProtonMail,May ,2020,3,No notifications
 ProtonVPN,May ,2020,4,No reported issues
-PUBG Mobile,June,2020,4,(Game)No reported issues
+PUBG Mobile,June,2020,4,No reported issues,Game
 Qantas,March,2020,4,No reported issues
 Reddit,May,2020,3,No notifications
 Ring,June,2020,3,"Google Play Services Warning, but no effect"
@@ -104,19 +104,19 @@ Signal,May ,2020,4,Offers APK from website designed for use without Google Play 
 Simplisafe ,June,2020,3,"Google Play Services Warning, but no effect"
 SKED,June,2020,3,"Google Play Services Warning, but no effect"
 Slack,May ,2020,3,No notifications
-Slide for Reddit,June,2020,4,No reported issues
+Slide for Reddit,July,2020,4,No reported issues
 Snapchat,January,2020,1,Unusable
 Snapseed,June,2020,4,No reported issues
 SolarEdge,June,2020,3,"Google Play Services Warning, but no effect"
-Soul Knight,June,2020,3,(Game)No IAP
-Soundcloud,June,2020,3,"(Music & Audio)Google Play Services Warning, Cannot login with google/gmail"
-Spaceship Voyager,May ,2020,4,No reported issues
+Soul Knight,July,2020,3,No IAP,Game
+Soundcloud,June,2020,3,"Google Play Services Warning, Cannot login with google/gmail",Music & Audio
+Spaceship Voyager,May ,2020,4,No reported issues,Game
 Spotify,May,2020,4,No reported issues
 Squore,June,2020,4,No reported issues
 Starbucks,June,2020,3,"Google Play Services Warning, but no effect"
 Steam,May ,2020,3,No Notifications
 Stride,June,2020,3,"Google Play Services Warning, but no effect"
-Subway Surfers,May,2020,1,Unusable
+Subway Surfers,May,2020,1,Unusable,Game
 Synology Drive,June,2020,4,No reported issues
 Synology Memories,June,2020,4,No reported issues
 Tello,June,2020,4,No reported issues
@@ -132,6 +132,5 @@ Whatsapp,May,2020,3,No notifications unless the app is running in the background
 Windscribe,May,2020,4,No reported issues
 Xoxo Docs,May,2020,4,No reported issues
 Yi Home,June,2020,4,No reported issues
-YouTube,May,2020,1,Unusable
 YouTube,May,2020,1,Unusable
 Zoom,January,2020,4,No reported issues
